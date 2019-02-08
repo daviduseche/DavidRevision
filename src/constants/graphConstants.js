@@ -1,0 +1,1 @@
+export const MONTHS = ['Jan', 'Feb', 'March', 'April', 'May', 'June']
